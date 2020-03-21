@@ -18,4 +18,5 @@ The images are classified using two several methods. That is, classification is 
 * Data visualisation is again performed by customising the MNIST classifier.
 After applying both models on the Malaria dataset, Model 2 will be further adjusted in order to classify X-Ray images of healthy lungs vs COVID-19 Infected lunngs. The dataset is shared by Adrian Rosebrock at: https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/.
 
-The COVID-19 Dataset, built by Rosebrock consists of 25 images of healthy lungs found at: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia and 25 images of infected lungs originally found at: https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images. 
+The COVID-19 Dataset, built by Rosebrock consists of 25 images of healthy lungs found at: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia, and 25 images of infected lungs originally found at: https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images. 
+The dataset was then manually modified by me and broken down to a training set of 40 images and a test set of 10 images. The classes are qually distributed along the sets.
