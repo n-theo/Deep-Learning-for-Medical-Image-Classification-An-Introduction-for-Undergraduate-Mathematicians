@@ -16,3 +16,6 @@ The images are classified using two several methods. That is, classification is 
 * The training of the CNN (Model 2) is done by custimising the Dogs vs Cats Classifier found at: https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/?completed=/loading-custom-data-deep-learning-python-tensorflow-keras/
 
 * Data visualisation is again performed by customising the MNIST classifier.
+After applying both models on the Malaria dataset, Model 2 will be further adjusted in order to classify X-Ray images of healthy lungs vs COVID-19 Infected lunngs. The dataset is shared by Adrian Rosebrock at: https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/.
+
+The COVID-19 Dataset, built by Rosebrock consists of 25 images of healthy lungs found at: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia and 25 images of infected lungs originally found at: https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images. 
