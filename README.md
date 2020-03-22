@@ -1,7 +1,7 @@
 # MATH3001
 Project Title: "Deep Learning for Medical Image Classification".
 
-Teacher: Dr Luisa Cutillo.
+Supervisor: Dr Luisa Cutillo.
 
 For Section 6 of my project, I will be investigating the Malaria Dataset found at: https://lhncbc.nlm.nih.gov/publication/pub9932.
 
